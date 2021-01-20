@@ -16,5 +16,9 @@ Demonstrates the basic operations of Eigen Matrix including initialize, edit val
 
 Demonstrates utilizing `Eigen/Geometry` for rotation and transition.  Practice the transformation between Euler, Affine and Quaternion.
 
+### [Coordinate Transform](exercise/ch3_eigen/coordinateTransform)
+
+A small example to demonstrate the coordinate transformation.
+
 
 
