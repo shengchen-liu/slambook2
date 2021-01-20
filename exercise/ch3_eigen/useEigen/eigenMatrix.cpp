@@ -1,5 +1,5 @@
 /*
-This example demonstrates teh basic operations of Eigen matrix.
+This example demonstrates the basic operations of Eigen matrix.
 */
 #include <iostream>
 
